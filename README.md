@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/zendframework/zf2/234b554f2ca202095aea32e4fa557553f8849664/resources/ZendFramework-logo.png)
 
-# Welcome to the *Zend Framework 2.3* Release!
+# Welcome to the *Zend Framework 2.3.* Release!
 
 Master:
 [![Build Status](https://secure.travis-ci.org/zendframework/zf2.svg?branch=master)](http://travis-ci.org/zendframework/zf2)
@@ -17,7 +17,7 @@ This is the sixth maintenance release for the version 2.3 series.
 
 DD MMM YYYY
 
-### UPDATES IN 2.3.6
+### UPDATES IN VERSION 2.3.6
 
 Please see [CHANGELOG.md](CHANGELOG.md).
 
